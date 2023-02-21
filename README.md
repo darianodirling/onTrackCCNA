@@ -2,6 +2,11 @@
 
 The onTrackCCNA Planner is a Python program that helps you plan your studies for Cisco Certified Network Associate (CCNA) certification exam. The program calculates how many days or sections of content you should cover each day to meet your study goal and helps you stay on track.
 
+Requirements
+    
+    Ability to download file from unknown developer
+    Mac's will tell you not to run it for that reason 
+
 How to use
 
     Unzip folder.
