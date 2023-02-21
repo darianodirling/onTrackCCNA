@@ -7,18 +7,21 @@ To use the application, you will need to enter your test date (year, month, day)
 The script uses the datetime module to calculate the difference between the current date and the test date, and the tkinter library to create a GUI for the user to enter their inputs and display the results.
 
 How to use
-To use this script, you need to have Python 3 installed on your system. Once you have Python installed, follow these steps:
+  To use this script, you need to have Python 3 installed on your system. Once you have Python installed, follow these steps:
 
-Save the code to a file with a .py extension (e.g., ccna_planner.py).
-Open a terminal or command prompt and navigate to the directory where you saved the file.
-Run the command python ccna_planner.py to launch the application.
-Enter your test date, program type, and current day/section into the GUI.
-Click the "Calculate" button to get the recommended study schedule.
+1. Save the code to a file with a .py extension (e.g., ccna_planner.py).
+2. Open a terminal or command prompt and navigate to the directory where you saved the file.
+3. Run the command python ccna_planner.py to launch the application.
+4. Enter your test date, program type, and current day/section into the GUI.
+5. Click the "Calculate" button to get the recommended study schedule.
+
 The recommended study schedule will be displayed in the GUI.
+
 Note: You may need to install the tkinter library if it's not already installed on your system.
 
-Dependencies
+Dependencies:
+
 This script requires the following modules:
 
-datetime
-tkinter
+'datetime'
+'tkinter'
